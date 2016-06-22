@@ -8,4 +8,4 @@
 工具类名 | 简单描述 
 ---------------- | ------------- 
 [ScreenUtil](categories/ScreenUtil.java) | 获取屏幕相关属性。
-[ShowDialogForSelectPic](categories/ShowDialogForSelectPic.java) | 显示选择系统图库 相机对话框。
+[ShowDialogForSelectPic](categories/ShowDialogForSelectPic.java) | 显示选择系统图库 相机对话框。 
