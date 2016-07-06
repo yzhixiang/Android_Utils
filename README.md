@@ -9,3 +9,5 @@
 ---------------- | ------------- 
 [ScreenUtil](categories/ScreenUtil.java) | 获取屏幕相关属性。
 [ShowDialogForSelectPic](categories/ShowDialogForSelectPic.java) | 显示选择系统图库 相机对话框。 
+[StreamTools](categories/StreamTools.java) | 将输入的InputStream流转化成字符串返回
+[SmsTools](categories/SmsTools.java) | 备份短信的工具类，有三个参数：1短信备份后文件的路径；2进度条；3进度条对话框。工具类最后面给出了一个使用示例。
